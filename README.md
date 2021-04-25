@@ -3,19 +3,23 @@
 ## Programa de aceleração de desenvolvimento de backend com foco em dados
 ---
 
-### Descrição do programa
+>### Descrição do programa
 ---
 A empresa IFood com o objetivo democratizar o conhecimento e promover o desenvolvimento de profissionais na área de Tecnologia da Informação, criou então, a iniciativa do Projeto VamoAI que tem  como objetivo acelerar o desenvolvimento de profissionais backend voltado para dados, para atuarem com foco em Inteligência Artificial, com parceria Educacional, Resilia Educação.
 
----
-### Projetos
----
+>### Jornada
 
-inserir  os projetos inserir  os projetos inserir  os projetos inserir  os projetos inserir  os projetos inserir  os projetos inserir  os projetos inserir  os projetos 
 
----
-### Ementa do Curso
----
+
+>### Projetos
+
+No final de cada módulo os alunos desenvolvem  um projeto  baseado no conteúdo aprendido.
+
+Projeto 1 : Diversidade nas Organizações Empresariais  
+Projeto 2 : API Star Wars  
+
+>### Ementa do Curso
+
 + Módulo 1 - Introdução a programação com Python e aquisição de hailidades comportamentais
     + Introdução a Python
     + Entrada e saída de dados
