@@ -1,7 +1,6 @@
 <img src="https://github.com/giselemanuel/programa-Ifood-backend/blob/main/imagens/programa-ifood.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="20000" height="200" />
 
 ## Programa de aceleração de desenvolvimento de backend com foco em dados
----
 
 >### Descrição do programa
 ---
