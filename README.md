@@ -7,10 +7,6 @@
 ---
 A empresa IFood com o objetivo democratizar o conhecimento e promover o desenvolvimento de profissionais na área de Tecnologia da Informação, criou então, a iniciativa do Projeto VamoAI que tem  como objetivo acelerar o desenvolvimento de profissionais backend voltado para dados, para atuarem com foco em Inteligência Artificial, com parceria Educacional, Resilia Educação.
 
->### Jornada
-
-
-
 >### Projetos
 
 No final de cada módulo os alunos desenvolvem  um projeto  baseado no conteúdo aprendido.
