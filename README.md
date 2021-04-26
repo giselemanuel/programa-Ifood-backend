@@ -8,7 +8,7 @@ A empresa IFood com o objetivo democratizar o conhecimento e promover o desenvol
 
 >## Projetos
 
-No final de cada módulo os alunos desenvolvem  um projeto  baseado no conteúdo aprendido.
+Listagem de projetos desenvolvidos durante o programa.
 
 Projeto 1 : Diversidade nas Organizações Empresariais  
 Projeto 2 : API Star Wars  
