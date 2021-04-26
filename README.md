@@ -1,6 +1,7 @@
 <img src="https://github.com/giselemanuel/programa-Ifood-backend/blob/main/imagens/programa-ifood.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="20000" height="200" />
 
 ## Programa de aceleração de desenvolvimento de backend com foco em dados
+<<<<<<< HEAD
 ---
 
 >### Descrição do programa
@@ -8,13 +9,21 @@
 A empresa IFood com o objetivo democratizar o conhecimento e promover o desenvolvimento de profissionais na área de Tecnologia da Informação, criou então, a iniciativa do Projeto VamoAI que tem  como objetivo acelerar o desenvolvimento de profissionais backend voltado para dados, para atuarem com foco em Inteligência Artificial, com parceria Educacional, Resilia Educação.
 
 >### Projetos
+=======
 
-No final de cada módulo os alunos desenvolvem  um projeto  baseado no conteúdo aprendido.
+>## Descrição do programa
+
+A empresa IFood com o objetivo democratizar o conhecimento e promover o desenvolvimento de profissionais na área de Tecnologia da Informação, criou então, a iniciativa do Projeto VamoAI que tem  como objetivo acelerar o desenvolvimento de profissionais backend voltado para dados, para atuarem com foco em Inteligência Artificial, com parceria Educacional, Resilia Educação.
+
+>## Projetos
+>>>>>>> 62b4d4840b010b0d1bbf48c117b4d05f08a0c9bb
+
+Listagem de projetos desenvolvidos durante o programa.
 
 Projeto 1 : Diversidade nas Organizações Empresariais  
 Projeto 2 : API Star Wars  
 
->### Ementa do Curso
+>## Ementa do Curso
 
 + Módulo 1 - Introdução a programação com Python e aquisição de hailidades comportamentais
     + Introdução a Python
