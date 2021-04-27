@@ -15,7 +15,7 @@ Listagem de projetos desenvolvidos durante o programa.
 
 >## Ementa do Curso
 
-+ Módulo 1 - Introdução a programação com Python e aquisição de hailidades comportamentais
++ [Módulo 1 - Introdução a programação com Python e aquisição de hailidades comportamentais](https://github.com/giselemanuel/programa-Ifood-backend/tree/main/modulo-1)
     + Introdução a Python
     + Entrada e saída de dados
     + Algoritmo e pensamento computacional
@@ -26,8 +26,8 @@ Listagem de projetos desenvolvidos durante o programa.
     + Hábitos
     + Gestão de rotina
     + Metodologia ágil
-
-+ Módulo 2 - Orientação a objetos e utilização de aplicações HTTPe Resolução de problemas e conflitos
+    
++ [Módulo 2 - Orientação a objetos e utilização de aplicações HTTPe Resolução de problemas e conflitos](https://github.com/giselemanuel/programa-Ifood-backend/tree/main/modulo-2)
     + Estrutura de dados: listas, dicionários, filas e pilhas
     + Orientação a objetos
     + Bibliotecas
