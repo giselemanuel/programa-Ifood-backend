@@ -4,14 +4,14 @@
 
 >## Descrição do programa
 
-A empresa [IFood](https://institucional.ifood.com.br/?utm_source=site_ifood) com o objetivo democratizar o conhecimento e promover o desenvolvimento de profissionais na área de Tecnologia da Informação, criou então, a iniciativa do [Programa VamoAI](https://www.linkedin.com/posts/ifood-_inteligaeanciaartificial-tecnologia-inovaaexaeto-activity-6760254723674124288-5VVF) que tem  como objetivo acelerar o desenvolvimento de profissionais backend voltado para dados, para atuarem com foco em Inteligência Artificial, com parceria Educacional [Resilia Educação](https://www.linkedin.com/school/resilia-educação/about/).
+A empresa [IFood](https://institucional.ifood.com.br/?utm_source=site_ifood) com o objetivo democratizar o conhecimento e promover o desenvolvimento de profissionais na área de Tecnologia da Informação, criou então, a iniciativa do [Programa VamoAI](https://www.linkedin.com/posts/ifood-_inteligaeanciaartificial-tecnologia-inovaaexaeto-activity-6760254723674124288-5VVF) que tem  como objetivo acelerar o desenvolvimento de profissionais backend voltado para dados, para atuarem com foco em Inteligência Artificial com parceria Educacional [Resilia Educação](https://www.linkedin.com/school/resilia-educação/about/).
 
 >## Projetos
 
 Listagem de projetos desenvolvidos durante o programa.
 
 + [Projeto 1 : Diversidade nas Organizações Empresariais](https://github.com/giselemanuel/Projeto1-programa-Ifood-backend.git)
-+ [Projeto 1 : API Star Wars](https://github.com/giselemanuel/projeto2-programa-Ifood-backend.git)
++ [Projeto 2 : API Star Wars](https://github.com/giselemanuel/projeto2-programa-Ifood-backend.git)
 
 >## Ementa do Curso
 
