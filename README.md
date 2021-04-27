@@ -10,8 +10,8 @@ A empresa [IFood](https://institucional.ifood.com.br/?utm_source=site_ifood) com
 
 Listagem de projetos desenvolvidos durante o programa.
 
-+ [Projeto 1 : Diversidade nas Organizações Empresariais ](https://github.com/giselemanuel/Projeto1-programa-Ifood-backend.git)
-+ Projeto 2 : API Star Wars  
++ [Projeto 1 : Diversidade nas Organizações Empresariais](https://github.com/giselemanuel/Projeto1-programa-Ifood-backend.git)
++ [Projeto 1 : API Star Wars](https://github.com/giselemanuel/projeto2-programa-Ifood-backend.git)
 
 >## Ementa do Curso
 
