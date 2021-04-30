@@ -4,7 +4,7 @@
 
 >## Descrição do programa
 
-A empresa [IFood](https://institucional.ifood.com.br/?utm_source=site_ifood) com o objetivo democratizar o conhecimento e promover o desenvolvimento de profissionais na área de Tecnologia da Informação, criou então, a iniciativa do [Programa VamoAI](https://www.linkedin.com/posts/ifood-_inteligaeanciaartificial-tecnologia-inovaaexaeto-activity-6760254723674124288-5VVF) que tem  como objetivo acelerar o desenvolvimento de profissionais backend voltado para dados, para atuarem com foco em Inteligência Artificial com parceria Educacional [Resilia Educação](https://www.linkedin.com/school/resilia-educação/about/). O programa contou com 4.700 inscritos, entre eles, selecionados 35 canditados(as) para participar do programa.
+A empresa [IFood](https://institucional.ifood.com.br/?utm_source=site_ifood) com o objetivo  de democratizar o conhecimento e promover o desenvolvimento de profissionais na área de Tecnologia da Informação, criou então, a iniciativa do [Programa VamoAI](https://www.linkedin.com/posts/ifood-_inteligaeanciaartificial-tecnologia-inovaaexaeto-activity-6760254723674124288-5VVF) que tem  como objetivo acelerar o desenvolvimento de profissionais backend voltado para dados, para atuarem com foco em Inteligência Artificial com parceria Educacional [Resilia Educação](https://www.linkedin.com/school/resilia-educação/about/). O programa contou com 4.700 inscritos, entre eles, selecionados 35 canditados(as) para participar do programa.
 
 >## Projetos
 
