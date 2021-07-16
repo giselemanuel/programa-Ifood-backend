@@ -12,7 +12,8 @@ Listagem de projetos desenvolvidos durante o programa.
 
 + [Projeto 1 : Diversidade nas Organizações Empresariais](https://github.com/giselemanuel/Projeto1-programa-Ifood-backend.git)
 + [Projeto 2 : API Star Wars](https://github.com/giselemanuel/projeto2-programa-Ifood-backend.git)
-+ [Projeto 3 : Visualização de Dados](https://github.com/giselemanuel/projeto3-programa-Ifood-backend.git)
++ [Projeto 3 : Visualização de Dados - Metabase](https://github.com/giselemanuel/projeto3-programa-Ifood-backend.git)
++ [Projeto 4 : Visualização de Dados - Tableau](https://github.com/giselemanuel/projeto4-programa-Ifood-backend)
 
 >## Ementa do Curso
 
