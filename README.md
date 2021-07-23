@@ -14,6 +14,7 @@ Listagem de projetos desenvolvidos durante o programa.
 + [Projeto 2 : API Star Wars](https://github.com/giselemanuel/projeto2-programa-Ifood-backend.git)
 + [Projeto 3 : Visualização de Dados - Metabase](https://github.com/giselemanuel/projeto3-programa-Ifood-backend.git)
 + [Projeto 4 : Visualização de Dados - Tableau](https://github.com/giselemanuel/projeto4-programa-Ifood-backend)
++ [Projeto 5 : Visualização de Dados API - Tableau](https://github.com/giselemanuel/projeto5-programa-Ifood-backend)
 
 >## Ementa do Curso
 
